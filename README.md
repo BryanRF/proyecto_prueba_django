@@ -1,6 +1,5 @@
-Claro, Brayan. Aquí tienes un ejemplo de README para un proyecto Django llamado "config" con los pasos que mencionaste:
 
-```markdown
+
 # Proyecto Django "aplicacion base"
 
 Este es un proyecto Django llamado "config" que incluye la creación de un entorno virtual, la instalación del cliente MySQL, y la creación de una aplicación llamada "modelo".
@@ -10,11 +9,11 @@ Este es un proyecto Django llamado "config" que incluye la creación de un entor
 1. Abre una terminal en la carpeta donde deseas crear el entorno virtual.
 2. Ejecuta el siguiente comando para crear el entorno virtual:
 
-```bash
-python -m venv venv
+    ```bash
+    python -m venv venv
 
-virutalenv venv
-```
+    virutalenv venv
+    ```
 3. Activa el entorno virtual:
 
    - En Windows:
