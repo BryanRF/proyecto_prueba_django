@@ -10,14 +10,14 @@ Este es un proyecto Django llamado "config" que incluye la creación de un entor
 1. Abre una terminal en la carpeta donde deseas crear el entorno virtual.
 2. Ejecuta el siguiente comando para crear el entorno virtual:
 
-   ```bash
-   python -m venv venv
-   ```
+```bash
+python -m venv venv
+```
    o 
 
-   ```bash
-   virutalenv venv
-   ```
+```bash
+virutalenv venv
+```
 3. Activa el entorno virtual:
 
    - En Windows:
