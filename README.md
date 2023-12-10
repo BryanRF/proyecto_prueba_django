@@ -4,6 +4,14 @@
 
 Este es un proyecto Django llamado "config" que incluye la creación de un entorno virtual, la instalación del cliente MySQL, y la creación de una aplicación llamada "modelo".
 
+Python : 
+Python Release Python 3.10.6 | Python.org
+https://www.python.org/downloads/release/python-3106/
+XAMPP (MYSQL): 
+Download XAMPP (apachefriends.org)
+https://www.apachefriends.org/download.html
+
+
 ## Crear entorno virtual
 
 1. Abre una terminal en la carpeta donde deseas crear el entorno virtual.
