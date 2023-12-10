@@ -15,7 +15,7 @@ Este es un proyecto Django llamado "config" que incluye la creación de un entor
    ```
    o 
 
-  ```bash
+   ```bash
    virutalenv venv
    ```
 3. Activa el entorno virtual:
